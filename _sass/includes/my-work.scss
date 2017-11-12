@@ -1,0 +1,23 @@
+#myWork {
+  background-color: white;
+  font-size: 1.5em;
+  width: 80%;
+  color: #a76100;
+  box-shadow: 10px 5px 5px #000;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  position: relative;
+  top: 3em;
+  margin-bottom: 5em;
+}
+
+#myWork h2 {
+  text-align: center;
+  font-size: 2em;
+}
+@media only screen and (max-width: 768px) {
+  #myWork {
+    margin-bottom: 2em;
+  }
+}

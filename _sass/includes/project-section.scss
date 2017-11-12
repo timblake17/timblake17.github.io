@@ -1,0 +1,103 @@
+.projectDiv {
+  height: 43em;
+  width: 40%;
+  margin-left: 7%;
+  float: left;
+  margin-top: 4em;
+  box-shadow: 10px 5px 5px black;
+  border: solid black 3px;
+}
+
+.projectDiv:nth-child(6) {
+  margin-bottom: 11em;
+}
+
+.firstButton {
+  height: 8%;
+  background-color: red;
+}
+
+.test {
+  height: 92%;
+}
+
+.projectPic {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.projectPic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.projectDiv h2 {
+  text-align: center;
+  font-size: 1.5em;
+  bottom: 0.6em;
+  font-weight: bold;
+  color: #A76100;
+}
+
+.projectDiv p {
+  color: black;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-size: 1.2em;
+}
+
+.projectDiv a button {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.firstButton .view {
+  background-color: white;
+}
+
+button {
+  width: 50%;
+  float: left;
+  background-color: #A76100;
+  height: 100%;
+}
+
+.fa {
+  margin-left: 0.5em;
+}
+@media only screen and (max-width: 1024px) {
+  .projectDiv p {
+    color: purple;
+    font-size: 1.1em;
+  }
+
+  .projectDiv a button {
+    font-size: 1em;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .projectDiv {
+    width: 48%;
+    margin-left: 2%;
+  }
+
+  .projectDiv h2 {
+    font-size: 1.2em;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .projectDiv {
+    width: 100%;
+    height: 35em;
+  }
+
+  .projectDiv:nth-child(6) {
+    margin-bottom: 5em;
+  }
+}

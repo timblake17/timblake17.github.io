@@ -1,0 +1,80 @@
+.contact {
+  float: left;
+  width: 100%;
+  background-color: #a76100;
+}
+
+.contactMe {
+  width: 80%;
+  height: 6.5em;
+  box-shadow: 10px 5px 5px black;
+  position: absolute;
+  background-color: white;
+  margin-left: 10%;
+  margin-top: -4%;
+}
+
+.contactMe h2 {
+  color: #a76100;
+  text-align: center;
+  font-size: 3em;
+  position: relative;
+  bottom: 30px;
+}
+/*/
+///////////////*/
+
+.contactForm {
+  width: 50%;
+  top: 15em;
+  margin: 0 auto;
+}
+
+.contactSum h3 {
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+  width: 75%;
+  margin: 5em auto 0;
+}
+
+.contactForm form input {
+  width: 100%;
+  display: inline-block;
+  height: 2.5em;
+  font-size: 1em;
+  border-radius: 0.3em;
+}
+
+.contactForm form textarea {
+  height: 15em;
+  width: 100%;
+  margin-bottom: 1em;
+  border-radius: 0.5em;
+}
+
+.contactForm form p {
+  color: white;
+}
+
+#submit_button {
+  width: 100%;
+  background-color: black;
+  color: white;
+  border-radius: 1em;
+}
+
+.buttonDiv {
+  width: 40%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  .contactForm {
+    width: 75%;
+  }
+  @media only screen and (max-width: 480px) {
+    .contactSum h3 {
+      font-size: 1.3em;
+    }
+  }
+}

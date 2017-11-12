@@ -1,0 +1,70 @@
+.home-banner {
+  background-color: #A76100;
+  width: 100%;
+}
+
+.aboutMe img {
+  width: 28%;
+  height: auto;
+  float: left;
+  margin: 11em 5% 5%;
+}
+
+.amDiv {
+  width: 45%;
+  float: left;
+  margin-top: 5em;
+  margin-left: 4em;
+  color: white;
+}
+
+.amDiv h1 {
+  font-size: 36px;
+  margin-top: 2.5em;
+}
+
+.amDiv p {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+@media only screen and (max-width: 1024px) {
+  .aboutMe img {
+    width: 36%;
+    margin-top: 15em;
+  }
+
+  .projectDiv p {
+    color: purple;
+    font-size: 1.1em;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .amDiv {
+    width: 85%;
+  }
+
+  .amDiv h1 {
+    text-align: center;
+    margin: 0;
+  }
+
+  .timsPic {
+    display: flex;
+  }
+
+  .timsPic img {
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+    margin-top: 6em;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .amDiv h1 {
+    font-size: 32px;
+  }
+
+  .amDiv p {
+    font-size: 18px;
+  }
+}

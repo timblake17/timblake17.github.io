@@ -1,0 +1,23 @@
+<section class="projects clearfix">
+  {% for project in page.projects %}
+  <div class="projectDiv">
+    <div class="test">
+      <div class="projectPic">
+        <img src="{{ project.image }}" />
+      </div>
+      <h2>{{ project.title }}</h2>
+      <p>{{ project.description }}</p>
+    </div>
+    <div class="firstButton">
+      <a href="{{ project.github }}">
+          <button class="view">View Github
+            <i class="fa fa-github-alt fa-2x" aria-hidden="true"></i>
+          </button>
+        </a>
+      <a href="{{ project.ghpage }}">
+          <button>View Project</button>
+        </a>
+    </div>
+  </div>
+  {% endfor %}
+</section>
