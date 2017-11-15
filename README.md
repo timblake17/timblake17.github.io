@@ -1,5 +1,3 @@
-Live Reload:
-http://blog.mattclemente.com/2016/07/29/live-reload-with-jekyll-and-hawkins.html
+# Tim Blakes Portfolio
 
-To run the site on your local machine:
-bundle exec jekyll liveserve
+### This is a portfolio of my work that I have built using jekyll html and scss.
