@@ -23,9 +23,17 @@
   margin-top: 2.5em;
 }
 
+.amDiv h1 span{
+  color: black;
+}
 .amDiv p {
   font-size: 20px;
-  letter-spacing: 1px;
+  }
+
+.amDiv p span{
+  font-weight: 900;
+  color: black;
+  font-size: 1.1em;
 }
 @media only screen and (max-width: 1024px) {
   .aboutMe img {
@@ -58,7 +66,9 @@
     margin-top: 6em;
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen
+and (min-width : 320px)
+and (max-width: 480px) {
   .amDiv h1 {
     font-size: 32px;
   }
