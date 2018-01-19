@@ -10,6 +10,16 @@ hero-banner:
   image: /assets/img/hero-banner.jpeg
   paragraph: This is my test page
 projects:
+  - title: Lucky Cycles App
+    description: Motorcycle Repair Shop App that I built using React. List of bike shop services with user option to add more services to list. User can click what services are wanted and it will show the price of the bill. Still a work in progress the app needs to be made responsive. 
+    github: https://github.com/timblake17/lucky-cycles
+    ghpage: https://intense-cliffs-29560.herokuapp.com
+    image: /assets/img/luckycycles.png
+  - title: Tomasello Boxing Club
+    description: This is a webpage that I am building for Tomasello boxing club that I designed and coded from scratch. I used  Figma for the design and Jekyll to build. It is still a work in progress.
+    github: https://github.com/timblake17/tomasello-boxing-club
+    ghpage:  http://timblake.tech/tomasello-boxing-club/
+    image: /assets/img/tomasello.png
   - title: Alien Asteroids Game
     description: This is an alien game that I build using javascript and the phaser library. The game has the fundamentals of asteroids as far as a ship shooting big pieces to smaller pieces but I added a kick and made them alienships, aliens and alien eggs. The levels incremently add new ships for your battle to make it tougher each round.
     github: https://github.com/timblake17/asteroidsGame
