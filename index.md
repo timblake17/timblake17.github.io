@@ -11,7 +11,7 @@ hero-banner:
   paragraph: This is my test page
 projects:
   - title: Lucky Cycles App
-    description: Motorcycle Repair Shop App that I built using React. List of bike shop services with user option to add more services to list. User can click what services are wanted and it will show the price of the bill. Still a work in progress the app needs to be made responsive. 
+    description: Motorcycle Repair Shop App that I built using React. List of bike shop services with user option to add more services to list. User can click what services are wanted and it will show the price of the bill. Still a work in progress the app needs to be made responsive.
     github: https://github.com/timblake17/lucky-cycles
     ghpage: https://intense-cliffs-29560.herokuapp.com
     image: /assets/img/luckycycles.png
@@ -23,7 +23,7 @@ projects:
   - title: Alien Asteroids Game
     description: This is an alien game that I build using javascript and the phaser library. The game has the fundamentals of asteroids as far as a ship shooting big pieces to smaller pieces but I added a kick and made them alienships, aliens and alien eggs. The levels incremently add new ships for your battle to make it tougher each round.
     github: https://github.com/timblake17/asteroidsGame
-    ghpage:
+    ghpage: https://github.com/timblake17/asteroidsGame
     image: /assets/img/asteroids.png
   - title: Tech Crunch Page Mockup
     description: This is a mockup of the Tech Crunch Report webpage where I did the html, css,and javscript. I have also made it completely responsive for a 768px screen where I added an clickable animated drop down hamburger menu for the navigation bar with Jquery.
@@ -33,7 +33,7 @@ projects:
   - title: React and Firebase ToDo Notes
     description: This is a to-do list CRUD app that I have built using react as the front end framework and firebase as the backend database.
     github: https://github.com/timblake17/react-firebase-to-do-list
-    ghpage: none
+    ghpage: https://github.com/timblake17/react-firebase-to-do-list
     image: /assets/img/reactToDo.png
   - title: New York Times Page Mockup
     description: This is a mockup of the New York Times webpage where I did the html, css,and javscript. I have also made it completely responsive for a 768px screen where I added an clickable animated drop down hamburger menu for the navigation bar with Jquery.
@@ -43,7 +43,7 @@ projects:
   - title: Tracking.Js Face Changer
     description: This is an App that I built using the Tracking.js library where you can change your face to an alien, Nick Cage, or Rick from Rick and morty. If you are familiar with snapchat filters it kind of works the same way, it covers your face with a picture and moves based on the movement of your face.
     github: https://github.com/timblake17/faceChanger
-    ghpage: none
+    ghpage: https://github.com/timblake17/faceChanger
     image: /assets/img/faceChanger.png
   - title: City Search
     description: This is an app that I built using a city search API that returns a JSON promise based on all US cites and the cities population. The user can input a city and get its population or a state that will show all of the states cities and populations of those cities.
