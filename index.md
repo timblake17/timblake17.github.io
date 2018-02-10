@@ -40,11 +40,11 @@ projects:
     github: https://github.com/timblake17/nyTimes
     ghpage: https://timblake17.github.io/nyTimes/
     image: /assets/img/nyTimes.png
-  - title: Tracking.Js Face Changer
-    description: This is an App that I built using the Tracking.js library where you can change your face to an alien, Nick Cage, or Rick from Rick and morty. If you are familiar with snapchat filters it kind of works the same way, it covers your face with a picture and moves based on the movement of your face.
-    github: https://github.com/timblake17/faceChanger
-    ghpage: https://github.com/timblake17/faceChanger
-    image: /assets/img/faceChanger.png
+  - title: MEAN Stack Authentication App
+    description: This is an App that I built using a tutorial series to get more familiar with building MEAN-stack applications. User can register a login name which is saved to mongo database and can then login to a dashboard using their credentials.
+    github: https://github.com/timblake17/MEAN-Stack-Auth
+    ghpage: https://calm-sea-96805.herokuapp.com/
+    image: /assets/img/MEAN.png
   - title: City Search
     description: This is an app that I built using a city search API that returns a JSON promise based on all US cites and the cities population. The user can input a city and get its population or a state that will show all of the states cities and populations of those cities.
     github: https://github.com/timblake17/citySearch
