@@ -22,8 +22,8 @@ projects:
     image: /assets/img/citySearch.png
   - title: Alien Asteroids Game
     description: This is an alien game that I build using javascript and the phaser library. The game has the fundamentals of asteroids as far as a ship shooting big pieces to smaller pieces but I added a kick and made them alienships, aliens and alien eggs. The levels incremently add new ships for your battle to make it tougher each round.
-    github: https://github.com/timblake17/asteroidsGame
-    ghpage: https://github.com/timblake17/asteroidsGame
+    github: https://github.com/timblake17/Asteroids
+    ghpage: http://timblake.tech/Asteroids/
     image: /assets/img/asteroids.png
   - title: React and Firebase ToDo Notes
     description: This is a to-do list CRUD app that I have built using react as the front end framework and firebase as the backend database.
