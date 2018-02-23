@@ -14,7 +14,7 @@
   width: 45%;
   float: left;
   margin-top: 5em;
-  margin-left: 4em;
+  // margin-left: 4em;
   color: white;
 }
 
@@ -40,15 +40,16 @@
     width: 36%;
     margin-top: 15em;
   }
-
-  .projectDiv p {
-    font-size: 1.1em;
-  }
 }
+
 @media only screen and (max-width: 768px) {
   .amDiv {
     width: 85%;
     text-align: center;
+    margin: 0 auto;
+    float: none;
+    padding: 40px 0 0 0;
+
   }
 
   .amDiv h1 {
