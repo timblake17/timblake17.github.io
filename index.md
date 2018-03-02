@@ -15,6 +15,16 @@ projects:
     github: https://github.com/timblake17/lucky-cycles
     ghpage: https://lucky-cycles.herokuapp.com/
     image: /assets/img/luckycycles.png
+  - title: JR13oxing Club
+    description: This is a webpage that I am building for JR13oxing Club that I designed and coded from scratch. I used  Figma for the design and Jekyll to build.
+    github: https://github.com/timblake17/tomasello-boxing-club
+    ghpage:  http://timblake.tech/tomasello-boxing-club/
+    image: /assets/img/tomasello.png
+  - title: MEAN Stack Authentication App
+    description: This is an App that I built using a tutorial series to get more familiar with building MEAN-stack applications. User can register a login name which is saved to mongo database and can then login to a dashboard using their credentials.
+    github: https://github.com/timblake17/MEAN-Stack-Auth
+    ghpage: https://tims-mean-app.herokuapp.com/
+    image: /assets/img/MEAN.png
   - title: City Search
     description: This is an app that I built using a city search API that returns a JSON promise based on all US cites and the cities population. The user can input a city and get its population or a state that will show all of the states cities and populations of those cities.
     github: https://github.com/timblake17/citySearch
@@ -30,14 +40,6 @@ projects:
     github: https://github.com/timblake17/react-firebase-to-do-list
     ghpage: https://react-fb-to-do.herokuapp.com/
     image: /assets/img/react-to-do.png
-  - title: MEAN Stack Authentication App
-    description: This is an App that I built using a tutorial series to get more familiar with building MEAN-stack applications. User can register a login name which is saved to mongo database and can then login to a dashboard using their credentials.
-    github: https://github.com/timblake17/MEAN-Stack-Auth
-    ghpage: https://tims-mean-app.herokuapp.com/
-    image: /assets/img/MEAN.png
-  - title: Tomasello Boxing Club
-    description: This is a webpage that I am building for Tomasello boxing club that I designed and coded from scratch. I used  Figma for the design and Jekyll to build. It is still a work in progress.
-    github: https://github.com/timblake17/tomasello-boxing-club
-    ghpage:  http://timblake.tech/tomasello-boxing-club/
-    image: /assets/img/tomasello.png
+
+
 ---
