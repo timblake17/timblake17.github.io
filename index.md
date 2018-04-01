@@ -25,6 +25,11 @@ projects:
     github: https://github.com/timblake17/tomasello-boxing-club
     ghpage:  http://timblake.tech/tomasello-boxing-club/
     image: /assets/img/tomasello.png
+  - title: React Furniture Filters With JSON file and Github API
+    description: An app I built using React that pulls my Github info from Githubs API and a JSON file containing a bunch of furniture products that can be filtered. More detailed summary on my Github link and a video of me explaining the project can be viewed <a href="https://soapbox.wistia.com/videos/2Lf48U13mK" target="_blank">Here<a>.
+    github: https://github.com/timblake17/furniture-filter
+    ghpage: https://furniture-filter.herokuapp.com/
+    image: /assets/img/furniture.png
   - title: MEAN Stack Authentication App
     description: This is an App that I built using a tutorial series to get more familiar with building MEAN-stack applications. User can register a login name which is saved to mongo database and can then login to a dashboard using their credentials.
     github: https://github.com/timblake17/MEAN-Stack-Auth
