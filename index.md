@@ -10,6 +10,11 @@ hero-banner:
   image: /assets/img/hero-banner.jpeg
   paragraph: This is my test page
 projects:
+  - title: Benjamin Zander Center
+    description: A project I was a part of at Resilient Lab, I built and styled the Home Page and the Explore page. Our entire Resilient Lab team took different parts of the project to work on and collaborated on the way. It was a great collaborative project and an awesome team experience.
+    github: https://www.benjaminzander.org/
+    ghpage: https://www.benjaminzander.org/
+    image: /assets/img/zander.png
   - title: Lucky Cycles App
     description: Motorcycle Repair Shop App that I built using React. List of bike shop services with user option to add more services to list. User can click what services are wanted and it will show the price of the bill. Still a work in progress the app needs to be made responsive.
     github: https://github.com/timblake17/lucky-cycles
