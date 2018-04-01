@@ -16,7 +16,7 @@ projects:
     ghpage: https://www.benjaminzander.org/
     image: /assets/img/zander.png
   - title: Lucky Cycles App
-    description: Motorcycle Repair Shop App that I built using React. List of bike shop services with user option to add more services to list. User can click what services are wanted and it will show the price of the bill. Still a work in progress the app needs to be made responsive.
+    description: Motorcycle Repair Shop App that I built using React. List of bike shop services with user option to add more services to list. User can click what services are wanted and it will show the price of the bill.
     github: https://github.com/timblake17/lucky-cycles
     ghpage: https://lucky-cycles.herokuapp.com/
     image: /assets/img/luckycycles.png
